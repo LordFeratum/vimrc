@@ -1,2 +1,3 @@
 # vimrc
-My personal vim configuration
+
+Actual addons: NERDTree and MiniBufExplr
